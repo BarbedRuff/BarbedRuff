@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi! My name is Ruslan Kamalov 👋
+🌱 I’m currently learning android development
 <!--
 **BarbedRuff/BarbedRuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
